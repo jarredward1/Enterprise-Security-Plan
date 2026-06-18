@@ -108,12 +108,6 @@ The plan includes **30+ policies, standards, and procedures** spanning:
 
 ---
 
-## 🏷️ Tags
-
-`cybersecurity` `security-policy` `nist` `pci-dss` `access-control` `information-security` `risk-management` `compliance` `cloud-security` `aws`
-
----
-
 ## 👤 Author
 
 **Jarred Ward**  
